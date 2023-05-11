@@ -7,5 +7,6 @@ This repository contains the professional documentation created throughout the p
 2. System Requirements Specifications
 3. Architectural Design Specifications
 4. Detailed Design Specifications
+5. Innovation Day Poster
 
 
