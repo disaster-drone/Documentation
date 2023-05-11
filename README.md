@@ -3,7 +3,7 @@ This repository contains the professional documentation created throughout the p
 
 ## Contents
 
-1. Project Charter
+1. [Project Charter](Project_Charter.pdf)
 2. System Requirements Specifications
 3. Architectural Design Specifications
 4. Detailed Design Specifications
